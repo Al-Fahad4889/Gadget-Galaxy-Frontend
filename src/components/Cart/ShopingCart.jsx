@@ -44,11 +44,11 @@ function ShopingCart() {
                     <p className="text-gray-400">Check your items. And select a suitable shipping method.</p>
                     <div className="mt-8 space-y-3 rounded-lg border bg-white px-2 py-4 sm:px-6">
                         <div className="flex flex-col rounded-lg bg-white sm:flex-row">
-                            <img className="m-2 h-24 w-28 rounded-md border object-cover object-center" src="https://inspireonline.in/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN_823x.jpg?v=1694605206" alt="" />
+                            <img className="m-2 h-24 w-28 rounded-md border object-cover object-center" src="https://static.gadgetandgear.com/image/250x250/fit/tmp/product/20220923_1663932121_316007.jpeg" alt="" />
                             <div className="flex w-full flex-col px-4 py-4">
-                                <span className="font-semibold">Iphone 15 pro</span>
+                                <span className="font-semibold">Galaxy Watch 5</span>
                                 <span className="float-right text-gray-400">42EU - 8.5US</span>
-                                <p className="text-lg font-bold">$138.99</p>
+                                <p className="text-lg font-bold">$245</p>
                             </div>
                         </div>
                         <div className="flex flex-col rounded-lg bg-white sm:flex-row">
