@@ -9,8 +9,9 @@ function VehicleDetails() {
 
 
     return (
-        <div className="mx-auto max-w-7xl">
+        <div>
             <Navbar />
+            <div className="mx-auto max-w-7xl">
            
 
 
@@ -41,7 +42,7 @@ function VehicleDetails() {
                                 <div className="flex items-center">
                                     <span className="mx-2 text-gray-400">/</span>
                                     <div className="-m-1">
-                                        <a href="#" className="rounded-md p-1 text-sm font-medium text-gray-600 focus:text-gray-900 focus:shadow hover:text-gray-800" aria-current="page"> Coffee </a>
+                                        <a href="#" className="rounded-md p-1 text-sm font-medium text-gray-600 focus:text-gray-900 focus:shadow hover:text-gray-800" aria-current="page"> Details </a>
                                     </div>
                                 </div>
                             </li>
@@ -192,8 +193,9 @@ function VehicleDetails() {
 
 
 
-            <Footer />
 
+        </div>
+            <Footer />
         </div>
     )
 }
